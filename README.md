@@ -1,6 +1,8 @@
 # rickroller-chatgpt-app
+> This app exposes a single tool with a widget that plays the classic Rick Astley video.
 
-This app exposes a single tool with a widget that plays the classic Rick Astley video via a YouTube embed.
+https://github.com/user-attachments/assets/a76b05b5-0d70-4bd5-9f96-e006ecb2ad65
+
 
 ## Prerequisites
 
